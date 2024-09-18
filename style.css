@@ -179,7 +179,7 @@ nav img {
 .secImg video {
   width: 337px;
   position: absolute;
-  top: 70px;
+  top: 105px;
   right: 63px;
 }
 section.first > div {
@@ -273,7 +273,7 @@ footer .questions {
   }
 
   .secImg video {
-    width: 222px;
+    width: 223px;
     top: 81px;
     right: 43px;
   }
